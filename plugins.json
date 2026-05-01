@@ -1,0 +1,25 @@
+[
+        {
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
+        "status": 1,
+        "version": 420,
+        "name": "CineStream",
+        "internalName": "CineStream",
+        "authors": [
+            "megix"
+        ],
+        "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
+        "fileSize": 639797,
+        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama",
+            "Anime",
+            "Torrent"
+        ],
+        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-a37cba93f7c9f4e7ea275625bae254f5049e9ed644fac31c0873aa4780a8e742"
+    }
+]
